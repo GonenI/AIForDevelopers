@@ -1,0 +1,5 @@
+Chicago 50
+New York 100
+Dallas 20
+Miami 45
+San Francisco 0

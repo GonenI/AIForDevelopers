@@ -1,0 +1,23 @@
+{
+    "servers": {
+        "time": {
+            "type": "stdio",
+            "command": "python",
+            "args": [
+                "-m",
+                "mcp_server_time",
+                "--local-timezone=America/Chicago"
+            ]
+        },
+        "demo-server": {
+            "type": "stdio",
+            "command": "uv",
+            "args": [
+                "run",
+                "mcp",
+                "run",
+                "${workspaceFolder}/mcp-server-demo/server.py"
+            ]
+        }
+    }
+}

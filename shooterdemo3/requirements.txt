@@ -1,0 +1,11 @@
+# Requirements for the Shooter Game
+# This file lists all the Python packages needed to run the game
+
+pygame>=2.1.0
+
+# pygame is the main dependency for:
+# - Window management and display
+# - Event handling (mouse clicks, window close)
+# - Graphics rendering (circles, lines, text)
+# - Game loop timing and frame rate control
+# - Font rendering for score display

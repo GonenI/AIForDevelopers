@@ -1,0 +1,11 @@
+{
+  "name": "space-invaders",
+  "version": "1.0.0",
+  "description": "A Space Invaders game built with HTML5 Canvas and JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+} 

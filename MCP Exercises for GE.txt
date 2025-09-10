@@ -1,0 +1,6 @@
+MCP Exercises for GE:
+Use Visual Studio Code and a Working Reference Server from the MCP web pages ( for example time ) to ask the LLM for the current time. ( use docker or python with uv installed )
+Write your own, or modify an existing one to do a specific task like read a file which is outside of the project directory and say/summarize what it’s contents is
+Try in Visual Studio
+Try writing a server in c#
+If you give up, use github.com/GonenI/mcpdemo

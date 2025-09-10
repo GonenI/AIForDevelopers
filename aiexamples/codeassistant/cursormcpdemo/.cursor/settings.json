@@ -1,0 +1,14 @@
+{
+    "mcp": {
+        "commands": {
+            "string_reverse": {
+                "command": "python string_reverse.py",
+                "description": "Reverses the input string"
+            },
+            "string_shuffle": {
+                "command": "python string_shuffle.py",
+                "description": "Shuffles the characters in the input string"
+            }
+        }
+    }
+} 
